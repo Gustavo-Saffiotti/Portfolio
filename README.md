@@ -1,6 +1,6 @@
-# Gustavo Maldonado Saffiotti - Data Analytics and Data Science & Machine Learning Projects
+# Gustavo Maldonado Saffiotti - Data Analytics and Data Science Projects
 
-Welcome to my portfolio! Here, I showcase some of my completed projects: one analyzing the higher education landscape in Brazil in 2020, and the other predicting vehicle prices using machine learning. These projects demonstrate my skills in data analytics, machine learning, and data visualization.
+Welcome to my portfolio! Here, I showcase some of my completed projects: one analyzing the higher education landscape in Brazil in 2020, and the other predicting vehicle prices using Machine Learning. These projects demonstrate my skills in Data Analytics, Data Science, Machine Learning, and data visualization.
 
 ---
 
@@ -20,32 +20,20 @@ This project analyzes the landscape of public higher education in Brazil for the
   
 ---
 
-### [Project 2: Vehicle Price Prediction using Machine Learning](https://github.com/Gustavo-Saffiotti/Data_Science)
+### [Project 2: Data Science - Vehicle Price Prediction using Machine Learning](https://github.com/Gustavo-Saffiotti/Data_Science)
 
 This project uses machine learning to predict the average price of vehicles based on various features such as engine size, fuel type, and vehicle brand. The model was built using **Random Forest Regressor** and optimized through **RandomizedSearchCV** for hyperparameter tuning.
 
 #### Key Highlights:
 - **Data Source**: FIPE (Fundação Instituto de Pesquisas Econômicas).
 - **Tools Used**: Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy.
-- **Model Performance**: The model performs excellently with high **R², meaning it explains almost all the variance in vehicle price predictions.
-
-#### Explore the Project:
-- [Project Development Notebook (Jupyter)](Vehicle_price_prediction.ipynb)
+- **Model Performance**: The model performs excellently with high R², meaning it explains almost all the variance in vehicle price predictions.
 
 #### Model Evaluation:
 - **MAE**: 4659.15
 - **MSE**: 151,821,780.30
 - **RMSE**: 12,321.60
 - **R²**: 1.00
-
----
-
-## Project Documentation
-
-For more detailed information on each project, including data preprocessing, exploratory data analysis, model development, and evaluation, you can access the full documentation below:
-
-- **[Higher Education in Brazil - Full Documentation (PDF)](Data_Analytics_Higher_Education_Data_2020___English.pdf)**
-- **[Vehicle Price Prediction - Full Project Notebook (Jupyter)](Vehicle_price_prediction.ipynb)**
 
 ---
 
