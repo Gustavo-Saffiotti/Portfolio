@@ -1,131 +1,66 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projects by Gustavo Maldonado Saffiotti</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-        }
-        header {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 10px 0;
-        }
-        main {
-            padding: 20px;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        .project {
-            background-color: #fff;
-            margin: 10px 0;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        }
-        .project img {
-            max-width: 100%;
-            height: auto;
-        }
-        .cta-button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-top: 10px;
-        }
-        .cta-button:hover {
-            background-color: #0056b3;
-        }
-    </style>
-</head>
-<body>
+# Gustavo Maldonado Saffiotti - Data Analytics and Data Science & Machine Learning Projects
 
-<header>
-    <h1>Gustavo Maldonado Saffiotti - Data Science & Machine Learning Projects</h1>
-</header>
+Welcome to my portfolio! Here, I showcase some of my completed projects: one analyzing the higher education landscape in Brazil in 2020, and the other predicting vehicle prices using machine learning. These projects demonstrate my skills in data analytics, machine learning, and data visualization.
 
-<main>
+---
 
-    <section class="project">
-        <h2>Project 1: Higher Education in Brazil in 2020</h2>
-        <p>This project, developed as part of the Data Analytics course, analyzes the landscape of public higher education in Brazil in 2020, utilizing data from the National Institute of Educational Studies and Research Anísio Teixeira (Inep). Key components of the project include data preparation, analysis, and interactive visualizations using Power BI.</p>
-        
-        <h3>Dashboard Overview</h3>
-        <p>Explore the interactive Power BI dashboard for insights into public higher education in Brazil:</p>
-        <a href="https://app.powerbi.com/view?r=eyJrIjoiOTcxMjBmN2YtZWFhNS00YzA4LWE2NzEtNzRmZGQ3OWY5ZmE5IiwidCI6IjJkM2IxMDY0LTc1MDEtNDQ0NC04MzRlLTI2YmI2NjNkMzhmZSJ9&pageName=ReportSectione93835085c205b6e0c94" class="cta-button">View the Dashboard</a>
-        
-        <h3>Visualizations</h3>
-        <ul>
-            <li><strong>Menu:</strong> Intuitive navigation to access the main areas of focus: Region, Higher Education Institutions (IES), or Freshmen.</li>
-            <li><strong>Region:</strong> Freshmen distribution by region, state, and municipality.</li>
-            <li><strong>IES (Higher Education Institutions):</strong> Map and charts of institutions and courses.</li>
-            <li><strong>Freshmen:</strong> Insights into entrants, including gender, course type, and age group.</li>
-        </ul>
+## Projects Overview
 
-        <h3>Tools Used</h3>
-        <ul>
-            <li><strong>Microsoft Excel</strong> - Data cleaning and preparation</li>
-            <li><strong>Power BI</strong> - Interactive visualizations</li>
-            <li><strong>DAX (Data Analysis Expressions)</strong> - Used for dynamic calculations and measures in Power BI</li>
-        </ul>
+### Project 1: Data Analytics - Higher Education in Brazil in 2020
 
-        <h3>Project Documentation</h3>
-        <p>For a detailed view of all project stages, including data collection, preparation, modeling, and visualization, see the full project report here:</p>
-        <a href="Data_Analytics_Higher_Education_Data_2020___English.pdf" class="cta-button">Higher Education in Brazil - Project Documentation (PDF)</a>
-        
-        <h3>References</h3>
-        <ul>
-            <li><a href="https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-da-educacao-superior">Data Source: Inep</a></li>
-            <li><a href="https://github.com/Gustavo-Saffiotti/Data_Analytics/tree/main/Dataset_Education">Prepared Data Files (GitHub)</a></li>
-        </ul>
-    </section>
+This project analyzes the landscape of public higher education in Brazil for the year 2020. It utilizes data from the National Institute of Educational Studies and Research Anísio Teixeira (Inep). The project covers multiple stages, including data collection, cleaning, preparation, and interactive visualization through Power BI.
 
-    <section class="project">
-        <h2>Project 2: Vehicle Price Prediction using Machine Learning</h2>
-        <img src="Images/Machine_Learning_Image.jfif" alt="Machine Learning" />
-        <p>This project uses machine learning to predict the average price of vehicles based on features like engine size, fuel type, and brand. The model was built using the Random Forest Regressor and optimized with RandomizedSearchCV.</p>
-        
-        <h3>Project Notebook</h3>
-        <p>For a detailed walkthrough of the project, including data preprocessing, model training, and evaluation, please refer to the full Jupyter Notebook:</p>
-        <a href="Vehicle_price_prediction.ipynb" class="cta-button">View Project Notebook</a>
-        
-        <h3>Evaluation Metrics</h3>
-        <ul>
-            <li><strong>MAE</strong> (Mean Absolute Error): 4659.15</li>
-            <li><strong>MSE</strong> (Mean Squared Error): 151821780.30</li>
-            <li><strong>RMSE</strong> (Root Mean Squared Error): 12321.60</li>
-            <li><strong>R²</strong> (Coefficient of Determination): 1.00</li>
-        </ul>
+#### Key Highlights:
+- **Data Source**: National Institute of Educational Studies and Research Anísio Teixeira (Inep).
+- **Tools Used**: Microsoft Excel, Power BI, DAX (Data Analysis Expressions).
+- **Key Insights**: The analysis provides a detailed breakdown of undergraduate student profiles, the distribution of students across regions, and the variety of courses offered by different institutions.
 
-        <h3>Future Improvements</h3>
-        <ul>
-            <li>Enhancing the model with additional features such as mileage and vehicle condition.</li>
-            <li>Experimenting with other algorithms like Gradient Boosting, XGBoost, or neural networks.</li>
-            <li>Further hyperparameter tuning for optimization.</li>
-        </ul>
+#### Explore the Project:
+- [Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTcxMjBmN2YtZWFhNS00YzA4LWE2NzEtNzRmZGQ3OWY5ZmE5IiwidCI6IjJkM2IxMDY0LTc1MDEtNDQ0NC04MzRlLTI2YmI2NjNkMzhmZSJ9&pageName=ReportSectione93835085c205b6e0c94)
+  
+---
 
-        <h3>Author</h3>
-        <ul>
-            <li><a href="https://www.linkedin.com/in/gustavo-maldonado-saffiotti">LinkedIn</a></li>
-            <li><a href="https://github.com/Gustavo-Saffiotti">GitHub Profile</a></li>
-        </ul>
-    </section>
+### Project 2: Vehicle Price Prediction using Machine Learning
 
-</main>
+This project uses machine learning to predict the average price of vehicles based on various features such as engine size, fuel type, and vehicle brand. The model was built using **Random Forest Regressor** and optimized through **RandomizedSearchCV** for hyperparameter tuning.
 
-</body>
-</html>
+#### Key Highlights:
+- **Data Source**: FIPE (Fundação Instituto de Pesquisas Econômicas).
+- **Tools Used**: Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy.
+- **Model Performance**: The model performs excellently with high **R², meaning it explains almost all the variance in vehicle price predictions.
+
+#### Explore the Project:
+- [Project Development Notebook (Jupyter)](Vehicle_price_prediction.ipynb)
+
+#### Model Evaluation:
+- **MAE**: 4659.15
+- **MSE**: 151,821,780.30
+- **RMSE**: 12,321.60
+- **R²**: 1.00
+
+---
+
+## Project Documentation
+
+For more detailed information on each project, including data preprocessing, exploratory data analysis, model development, and evaluation, you can access the full documentation below:
+
+- **[Higher Education in Brazil - Full Documentation (PDF)](Data_Analytics_Higher_Education_Data_2020___English.pdf)**
+- **[Vehicle Price Prediction - Full Project Notebook (Jupyter)](Vehicle_price_prediction.ipynb)**
+
+---
+
+## Tools & Technologies
+
+- **Data Cleaning & Analysis**: Microsoft Excel, Pandas, NumPy.
+- **Data Visualization**: Power BI, Matplotlib, Seaborn.
+- **Machine Learning**: Scikit-learn (Random Forest Regressor, Hyperparameter Tuning).
+- **Libraries Used**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+
+---
+
+## Contact & Links
+
+- **[LinkedIn](https://www.linkedin.com/in/gustavo-maldonado-saffiotti)**
+- **[GitHub Profile](https://github.com/Gustavo-Saffiotti)**
+
+Feel free to open an issue or pull request for suggestions or improvements.
