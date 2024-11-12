@@ -1,4 +1,4 @@
-# Gustavo Maldonado Saffiotti - Data Analytics and Data Science Projects
+# Data Analytics and Data Science Projects
 
 Welcome to my portfolio! Here, I showcase some of my completed projects: one analyzing the higher education landscape in Brazil in 2020, and the other predicting vehicle prices using Machine Learning. These projects demonstrate my skills in Data Analytics, Data Science, Machine Learning, and data visualization.
 
@@ -12,7 +12,6 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 This project analyzes the landscape of public higher education in Brazil for the year 2020. It utilizes data from the National Institute of Educational Studies and Research Anísio Teixeira (Inep). The project covers multiple stages, including data collection, cleaning, preparation, and interactive visualization through Power BI.
 
 #### Key Highlights:
-- **Data Source**: National Institute of Educational Studies and Research Anísio Teixeira (Inep).
 - **Tools Used**: Microsoft Excel, Power BI, DAX (Data Analysis Expressions).
 - **Key Insights**: The analysis provides a detailed breakdown of undergraduate student profiles, the distribution of students across regions, and the variety of courses offered by different institutions.
 
@@ -28,7 +27,6 @@ This project analyzes the landscape of public higher education in Brazil for the
 This project uses machine learning to predict the average price of vehicles based on various features such as engine size, fuel type, and vehicle brand. The model was built using **Random Forest Regressor** and optimized through **RandomizedSearchCV** for hyperparameter tuning.
 
 #### Key Highlights:
-- **Data Source**: FIPE (Fundação Instituto de Pesquisas Econômicas).
 - **Tools Used**: Python, Jupyter Notebook, Scikit-learn, Pandas, NumPy.
 - **Model Performance**: The model performs excellently with high R², meaning it explains almost all the variance in vehicle price predictions.
 
@@ -54,5 +52,3 @@ This project uses machine learning to predict the average price of vehicles base
 
 - **[LinkedIn](https://www.linkedin.com/in/gustavo-maldonado-saffiotti)**
 - **[GitHub Profile](https://github.com/Gustavo-Saffiotti)**
-
-Feel free to open an issue or pull request for suggestions or improvements.
