@@ -1,4 +1,4 @@
-# Data Analytics and Data Science Projects
+# Portfolio
 
 Welcome to my portfolio! Here, I showcase some of my completed projects: one analyzing the higher education landscape in Brazil in 2020, and the other predicting vehicle prices using Machine Learning. These projects demonstrate my skills in Data Analytics, Data Science, Machine Learning, and data visualization.
 
@@ -6,7 +6,8 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 
 ## Projects Overview
 
-### [Project 1: Data Analytics - Higher Education in Brazil in 2020](https://github.com/Gustavo-Saffiotti/Data_Analytics)
+### [Project 1 
+##Data Analytics - Higher Education in Brazil in 2020](https://github.com/Gustavo-Saffiotti/Data_Analytics)
 
 
 This project analyzes the landscape of public higher education in Brazil for the year 2020. It utilizes data from the National Institute of Educational Studies and Research Anísio Teixeira (Inep). The project covers multiple stages, including data collection, cleaning, preparation, and interactive visualization through Power BI.
@@ -21,7 +22,8 @@ This project analyzes the landscape of public higher education in Brazil for the
 ![](Menu.jpg)
 ---
 
-### [Project 2: Data Science - Vehicle Price Prediction using Machine Learning](https://github.com/Gustavo-Saffiotti/Data_Science)
+### [Project 2 
+## Data Science - Vehicle Price Prediction using Machine Learning](https://github.com/Gustavo-Saffiotti/Data_Science)
 
 
 This project uses machine learning to predict the average price of vehicles based on various features such as engine size, fuel type, and vehicle brand. The model was built using **Random Forest Regressor** and optimized through **RandomizedSearchCV** for hyperparameter tuning.
