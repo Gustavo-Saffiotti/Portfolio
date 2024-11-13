@@ -19,31 +19,45 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 ### Work Experience
 
 - **Jr. Data Specialist**  
-  TecAlliance do Brasil  
-  Apr 2021 - Present  
-  Responsible for standardizing and managing datasets related to automotive parts and components, ensuring high quality and consistency of      information. My role involves applying Python to automate data transformation and validation processes, resulting in a significant increase   in operational efficiency.
+  **TecAlliance do Brasil**  
+  *Apr 2021 - Present*  
+  - Standardizing and managing datasets for automotive parts and components to ensure data quality and consistency.
+  - Using Python to automate data transformation and validation, significantly improving operational efficiency.
+  - Communicating directly with manufacturers in the automotive sector to ensure accurate and reliable data delivery.
+  - Utilizing SQL for database queries and reporting, supporting internal analytical needs and contributing to data-driven decision-making.
 
-  Additionally, I maintain direct contact with manufacturers in the automotive sector, providing ongoing support to ensure the accurate and     reliable delivery of data, facilitating communication between the involved parties. I utilize SQL to perform queries and generate reports     in our database, addressing internal analytical needs and contributing to data-driven decision-making.
+---
 
 - **SQL Tutor**  
-  Coderhouse Brasil  
-  Aug 2024 - Present  
-  As a tutor, I provide support in creating and modeling a relational database from scratch, assisting from the generation of the structure     to the insertion of information and the implementation of automation processes for maintaining the database. I work with all categories of    SQL sublanguage, such as DDL, DML, DCL, and TCL, as well as help in creating Functions, Stored Procedures, and Triggers. I also assist in     implementing advanced SQL queries to generate reports that aid in decision-making.
+  **Coderhouse Brasil**  
+  *Aug 2024 - Present*  
+  - Assisting students in creating and modeling relational databases from scratch, including structure generation and data insertion.
+  - Teaching SQL sublanguages (DDL, DML, DCL, TCL) and guiding students in creating Functions, Stored Procedures, and Triggers.
+  - Supporting advanced SQL queries to generate reports that aid in decision-making processes.
+
+---
 
 - **Data Analytics Tutor**  
-  Coderhouse Brasil  
-  Oct 2023 - Jan 2024  
-  As a tutor, my role is to provide continuous support to students in the development of data analysis projects, from the initial research      phase to the creation of interactive dashboards in Power BI. In addition to guiding them on best practices for data modeling and SQL          manipulation, I help students understand DDL and DML sublanguages, and perform advanced queries like Join and Union.
+  **Coderhouse Brasil**  
+  *Oct 2023 - Jan 2024*  
+  - Guiding students in developing data analysis projects, from initial research to creating interactive dashboards in Power BI.
+  - Teaching best practices for data modeling, SQL manipulation, and complex queries (e.g., Join, Union).
+  - Helping students build storytelling skills with data and create efficient, trend-focused visualizations.
+  - Assisting with Power BI tools (DAX, M language, Power Query) to transform data into actionable insights.
 
-  I also assist in developing storytelling skills with data, helping them create efficient charts and apply best practices for trend            analysis. In Power BI, I support students in using DAX, M language, and Power Query, enabling them to transform raw data into clear visual    insights, which are essential for data-driven decision-making.
+---
 
 - **Mechanical Engineering Intern**  
-  General Motors  
-  Jul 2019 - Apr 2021  
-  Assisted in the planning and implementation of data-driven maintenance strategies aimed at optimizing machine uptime.
-  Developed dashboards in Power BI to monitor key performance indicators (KPIs) for production lines, significantly contributing to increased   operational efficiency.
-  Collaborated with engineering teams to collect and analyze equipment data, identifying trends and potential failure points.
-  Implemented a improvement project focused on predictive maintenance, utilizing a vibration analysis model on machines with rotating           components, resulting in a considerable cost reduction by preventing failures and extending equipment lifespan.
+  **General Motors**  
+  *Jul 2019 - Apr 2021*  
+  - Assisted in planning and implementing data-driven maintenance strategies to optimize machine uptime.
+  - Developed Power BI dashboards to monitor production KPIs, enhancing operational efficiency.
+  - Collaborated with engineering teams to analyze equipment data, identifying trends and potential failures.
+  - Led a predictive maintenance project using vibration analysis on rotating machinery, reducing costs by preventing equipment failures and extending lifespan. 
+
+---
+
+
 
 ---
 
@@ -68,7 +82,7 @@ This project analyzes the landscape of public higher education in Brazil for the
 
 ### [Project 2: Data Science - Vehicle Price Prediction using Machine Learning](https://github.com/Gustavo-Saffiotti/Data_Science)
 
-![](Images/Machine_Learning_Image.jfif)
+![](Images/Result.png)
 
 This project uses machine learning to predict the average price of vehicles based on various features such as engine size, fuel type, and vehicle brand. The model was built using **Random Forest Regressor** and optimized through **RandomizedSearchCV** for hyperparameter tuning.
 
@@ -81,6 +95,8 @@ This project uses machine learning to predict the average price of vehicles base
 - **MSE**: 151,821,780.30
 - **RMSE**: 12,321.60
 - **R²**: 1.00
+
+
  
 
 ---
