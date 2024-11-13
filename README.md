@@ -2,6 +2,16 @@
 
 Welcome to my portfolio! Here, I showcase some of my completed projects: one analyzing the higher education landscape in Brazil in 2020, and the other predicting vehicle prices using Machine Learning. These projects demonstrate my skills in Data Analytics, Data Science, Machine Learning, and data visualization.
 
+## Tools & Technologies
+
+- **Data Cleaning & Analysis**: Microsoft Excel, Pandas, NumPy.
+- **Data Visualization**: Power BI, Matplotlib, Seaborn.
+- **Machine Learning**: Scikit-learn (Random Forest Regressor, Hyperparameter Tuning).
+- **Libraries Used**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
+
+- 
+---
+
 ### Education
 - **Postgraduate Lato Sensu in Data Science and Big Data**  
   PUC Minas  
@@ -76,15 +86,7 @@ This project includes an article I authored on Vibration Analysis, an essential 
 
 My foundational knowledge in vibration analysis directly contributed to my work at General Motors, where I applied these concepts in a vibration monitoring project as part of a maintenance initiative aimed at predicting failures. This project achieved significant cost reductions by enabling early detection of mechanical issues through effective vibration monitoring.
 
----
 
-
-## Tools & Technologies
-
-- **Data Cleaning & Analysis**: Microsoft Excel, Pandas, NumPy.
-- **Data Visualization**: Power BI, Matplotlib, Seaborn.
-- **Machine Learning**: Scikit-learn (Random Forest Regressor, Hyperparameter Tuning).
-- **Libraries Used**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
 
 ---
 
