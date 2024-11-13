@@ -9,6 +9,11 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 
 ### Work Experience
 
+- **Jr. Data Specialist**  
+  TecAlliance do Brasil  
+  Apr 2021 - Present  
+  Standardize and manage automotive data, automate data processes with Python, and conduct SQL queries to support internal analytics.
+
 - **SQL Tutor**  
   Coderhouse Brasil  
   Aug 2024 - Present  
@@ -16,18 +21,14 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 
 - **Data Analytics Tutor**  
   Coderhouse Brasil  
-  Oct 2023 - Present  
+  Oct 2023 - Jan 2024  
   Guide students through data analysis projects and dashboards in Power BI, teaching SQL and data storytelling techniques.
-
-- **Jr. Data Specialist**  
-  TecAlliance do Brasil  
-  Apr 2021 - Present  
-  Standardize and manage automotive data, automate data processes with Python, and conduct SQL queries to support internal analytics.
 
 - **Mechanical Engineering Intern**  
   General Motors  
   Jul 2019 - Apr 2021  
-  Assisted in data-driven maintenance strategies and implemented a vibration analysis model, contributing to significant cost reductions through predictive maintenance.
+  Assisted in data-driven maintenance strategies and implemented a vibration analysis model, contributing to significant cost reductions 
+  through predictive maintenance.
 
 ---
 
