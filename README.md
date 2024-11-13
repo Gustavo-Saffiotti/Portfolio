@@ -81,6 +81,8 @@ This project uses machine learning to predict the average price of vehicles base
 - **MSE**: 151,821,780.30
 - **RMSE**: 12,321.60
 - **R²**: 1.00
+
+![](Images/Result.png)
  
 
 ---
