@@ -2,6 +2,33 @@
 
 Welcome to my portfolio! Here, I showcase some of my completed projects: one analyzing the higher education landscape in Brazil in 2020, and the other predicting vehicle prices using Machine Learning. These projects demonstrate my skills in Data Analytics, Data Science, Machine Learning, and data visualization.
 
+### Education
+- **Postgraduate Lato Sensu in Data Science and Big Data**  
+  PUC Minas  
+  Apr 2024 - Oct 2025
+
+### Work Experience
+
+- **SQL Tutor**  
+  Coderhouse Brasil  
+  Aug 2024 - Present  
+  Support SQL database creation and automation, teach advanced queries, and help students with DDL, DML, and DCL sublanguages.
+
+- **Data Analytics Tutor**  
+  Coderhouse Brasil  
+  Oct 2023 - Present  
+  Guide students through data analysis projects and dashboards in Power BI, teaching SQL and data storytelling techniques.
+
+- **Jr. Data Specialist**  
+  TecAlliance do Brasil  
+  Apr 2021 - Present  
+  Standardize and manage automotive data, automate data processes with Python, and conduct SQL queries to support internal analytics.
+
+- **Mechanical Engineering Intern**  
+  General Motors  
+  Jul 2019 - Apr 2021  
+  Assisted in data-driven maintenance strategies and implemented a vibration analysis model, contributing to significant cost reductions through predictive maintenance.
+
 ---
 
 ## Projects Overview
@@ -37,11 +64,15 @@ This project uses machine learning to predict the average price of vehicles base
  
 ![](Machine_Learning_Image.jfif)
 ---
-## Additional Project: Mechanical Engineering - Vibration Analysis
+## [Additional Project: Mechanical Engineering - Vibration Analysis](https://github.com/Gustavo-Saffiotti/Vibration-Analysis)
 
-During my internship at General Motors, I conducted an in-depth vibration analysis to support an engine maintenance project. This work was critical in reducing maintenance costs and optimizing engine longevity, resulting in significant cost savings for the company.(https://github.com/Gustavo-Saffiotti).
+This project includes an article I authored on Vibration Analysis, an essential field within mechanical engineering. The study focuses on the **Fast Fourier Transform (FFT)** method, widely used to identify and analyze frequency components in rotating machinery systems.
+
+My foundational knowledge in vibration analysis directly contributed to my work at General Motors, where I applied these concepts in a vibration monitoring project as part of a maintenance initiative aimed at predicting failures. This project achieved significant cost reductions by enabling early detection of mechanical issues through effective vibration monitoring.
 
 ---
+
+
 ## Tools & Technologies
 
 - **Data Cleaning & Analysis**: Microsoft Excel, Pandas, NumPy.
