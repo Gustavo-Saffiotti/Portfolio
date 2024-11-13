@@ -51,7 +51,9 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 
 ### [Project 1: Data Analytics - Higher Education in Brazil in 2020](https://github.com/Gustavo-Saffiotti/Data_Analytics)
 
-![](Menu.jpg)
+![](Menu.jpg){: width="300" height="300"}
+
+
 
 This project analyzes the landscape of public higher education in Brazil for the year 2020. It utilizes data from the National Institute of Educational Studies and Research Anísio Teixeira (Inep). The project covers multiple stages, including data collection, cleaning, preparation, and interactive visualization through Power BI.
 
@@ -67,7 +69,7 @@ This project analyzes the landscape of public higher education in Brazil for the
 
 ### [Project 2: Data Science - Vehicle Price Prediction using Machine Learning](https://github.com/Gustavo-Saffiotti/Data_Science)
 
-![](Machine_Learning_Image.jfif)
+![](Machine_Learning_Image.jfif){: width="300" height="300"}
 
 This project uses machine learning to predict the average price of vehicles based on various features such as engine size, fuel type, and vehicle brand. The model was built using **Random Forest Regressor** and optimized through **RandomizedSearchCV** for hyperparameter tuning.
 
@@ -85,7 +87,7 @@ This project uses machine learning to predict the average price of vehicles base
 ---
 ## [Additional Project: Mechanical Engineering - Vibration Analysis](https://github.com/Gustavo-Saffiotti/Vibration-Analysis)
 
-![](spectrum.jpg)
+![](spectrum.jpg){: width="300" height="300"}
 
 This project includes an article I authored on Vibration Analysis, an essential field within mechanical engineering. The study focuses on the **Fast Fourier Transform (FFT)** method, widely used to identify and analyze frequency components in rotating machinery systems.
 
