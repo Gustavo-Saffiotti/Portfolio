@@ -8,8 +8,7 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 - **Data Visualization**: Power BI, Matplotlib, Seaborn.
 - **Machine Learning**: Scikit-learn (Random Forest Regressor, Hyperparameter Tuning).
 - **Libraries Used**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
-
-- 
+  
 ---
 
 ### Education
