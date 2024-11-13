@@ -70,6 +70,7 @@ This project analyzes the landscape of public higher education in Brazil for the
 ### [Project 2: Data Science - Vehicle Price Prediction using Machine Learning](https://github.com/Gustavo-Saffiotti/Data_Science)
 
 ![](Machine_Learning_Image.jfif)
+
 This project uses machine learning to predict the average price of vehicles based on various features such as engine size, fuel type, and vehicle brand. The model was built using **Random Forest Regressor** and optimized through **RandomizedSearchCV** for hyperparameter tuning.
 
 #### Key Highlights:
