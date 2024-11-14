@@ -4,9 +4,10 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 
 ## Tools & Technologies
 
-- **Data Cleaning & Analysis**: Microsoft Excel, Pandas, NumPy.
+- **Data Cleaning & Analysis**: Microsoft Excel, SQL, Pandas, NumPy.
 - **Data Visualization**: Power BI, Matplotlib, Seaborn.
-- **Machine Learning**: Scikit-learn (Random Forest Regressor, Hyperparameter Tuning).
+- **Machine Learning**: Scikit-learn (Random Forest Regressor, Linear Regression, Decision Tree, Hyperparameter Tuning).
+- **Database Management & SQL Tools: MySQL, DBeaver.
 - **Libraries Used**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
   
 ---
@@ -95,8 +96,23 @@ This project uses machine learning to predict the average price of vehicles base
 - **MSE**: 151,821,780.30
 - **RMSE**: 12,321.60
 - **R²**: 1.00
+- 
 
+### [Project 3: SQL Files Repository](https://github.com/Gustavo-Saffiotti/SQL_Files)
 
+![](Images/SQL.jpeg)
+
+This repository contains a comprehensive collection of SQL scripts, showcasing the full range of SQL capabilities. It includes examples of:
+
+- **DDL**: Creating and managing database schemas, tables, and relationships.
+- **DML**: Querying and manipulating data, including complex `SELECT` queries.
+- **DCL**: Managing permissions and user access.
+- **TCL**: Handling transactions and ensuring database integrity.
+- **Stored Procedures & Triggers**: Automating database tasks and handling database events.
+
+These scripts are designed to demonstrate advanced SQL functionality and serve as learning material for anyone looking to deepen their SQL expertise.
+
+---
  
 
 ---
