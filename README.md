@@ -7,7 +7,7 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 - **Data Cleaning & Analysis**: Microsoft Excel, SQL, Pandas, NumPy.
 - **Data Visualization**: Power BI, Matplotlib, Seaborn.
 - **Machine Learning**: Scikit-learn (Random Forest Regressor, Linear Regression, Decision Tree, Hyperparameter Tuning).
-- **Database Management & SQL Tools: MySQL, DBeaver.
+- **Database Management & SQL Tools**: MySQL, DBeaver.
 - **Libraries Used**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
   
 ---
