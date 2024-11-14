@@ -100,7 +100,7 @@ This project uses machine learning to predict the average price of vehicles base
 
 ### [Project 3: SQL Files Repository](https://github.com/Gustavo-Saffiotti/SQL_Files)
 
-![](Images/Images/SQL.jpeg)
+![](Images/SQL.jpeg)
 
 This repository contains a comprehensive collection of SQL scripts, showcasing the full range of SQL capabilities. It includes examples of:
 
