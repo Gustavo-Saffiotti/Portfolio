@@ -97,6 +97,8 @@ This project uses machine learning to predict the average price of vehicles base
 - **RMSE**: 12,321.60
 - **R²**: 1.00
 
+---
+
 ### [Project 3: SQL Files Repository](https://github.com/Gustavo-Saffiotti/SQL_Files)
 
 ![](Images/SQL_structure.png)
@@ -111,6 +113,7 @@ This repository contains a comprehensive collection of SQL scripts, showcasing t
 
 These scripts are designed to demonstrate advanced SQL functionality and serve as learning material for anyone looking to deepen their SQL expertise.
 
+---
 
 ### [Project 4: Data Pipeline: Docker, Kafka e Jupyter Notebook](https://github.com/Gustavo-Saffiotti/Data_Pipeline)
 
@@ -130,7 +133,6 @@ In this project, we address the creation of a Big Data environment using Docker 
 ---
  
 
----
 ## [Additional Project: Mechanical Engineering - Vibration Analysis](https://github.com/Gustavo-Saffiotti/Vibration-Analysis)
 
 ![](Images/spectrum.jpg)
