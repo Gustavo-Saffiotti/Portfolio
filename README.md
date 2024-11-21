@@ -96,7 +96,6 @@ This project uses machine learning to predict the average price of vehicles base
 - **MSE**: 151,821,780.30
 - **RMSE**: 12,321.60
 - **R²**: 1.00
-- 
 
 ### [Project 3: SQL Files Repository](https://github.com/Gustavo-Saffiotti/SQL_Files)
 
@@ -111,6 +110,22 @@ This repository contains a comprehensive collection of SQL scripts, showcasing t
 - **Stored Procedures & Triggers**: Automating database tasks and handling database events.
 
 These scripts are designed to demonstrate advanced SQL functionality and serve as learning material for anyone looking to deepen their SQL expertise.
+
+
+### [Project 4: Data Pipeline: Docker, Kafka e Jupyter Notebook](https://github.com/Gustavo-Saffiotti/Data_Pipeline)
+
+![](Images/Kafka_docker_jupyter.jpg)
+
+In this project, we address the creation of a Big Data environment using Docker to orchestrate several essential services for processing and analyzing large volumes of data. We use Kafka as a tool for ingesting and managing data flows, Jupyter Notebook for interactivity and data analysis, and several other frameworks that are widely used in the Big Data ecosystem. The configuration of the environment is done in an automated way using Docker and Docker Compose, which allows the creation and management of multiple containers to run the services in an efficient and isolated way. The integration between these tools provides a robust foundation for exploring data at scale, processing it in real-time, and performing detailed analysis with ease.
+
+### Tools and Skills Used
+- **Docker**: Container platform for creating and managing isolated environments, enabling efficient execution of applications and services.
+- **Docker Compose**: Tool to define and run multi-container applications, simplifying the configuration and orchestration of services.
+- **Apache Kafka**: Distributed messaging system used for ingesting, storing, and processing large volumes of data in real time.
+- **Jupyter Notebook**: Interactive interface for data analysis, which facilitates the execution of Python code and visualization of results in a dynamic way.
+- **Pandas**: Python library for data manipulation and analysis, essential for information processing and visualization.
+- **Matplotlib**: Library for creating graphs and visualizations, allowing you to represent the distribution of logs and analyzed data.
+
 
 ---
  
