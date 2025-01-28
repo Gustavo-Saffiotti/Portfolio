@@ -31,7 +31,7 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 
 - **SQL Tutor**  
   **Coderhouse Brasil**  
-  *Aug 2024 - Present*  
+  *Aug 2024 - Dec 2024*  
   - As a tutor, I provide support in the creation and modeling of a relational database from scratch, assisting from the generation of the structure to the insertion of information and the implementation of automation processes for database maintenance.
   - Provide guidance in designing, modeling, and maintaining relational databases using all SQL sublanguages (DDL, DML, DCL, TCL).
   - Assist students in creating stored procedures, functions, and triggers to automate database processes.
