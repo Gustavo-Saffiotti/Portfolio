@@ -4,7 +4,7 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 
 ## Tools & Technologies
 
-- **Data Cleaning & Analysis**: Microsoft Excel, SQL, Pandas, NumPy.
+- **Data Cleaning & Analysis**: Microsoft Excel, SQL, Python.
 - **Data Visualization**: Power BI, Matplotlib, Seaborn.
 - **Machine Learning**: Scikit-learn (Random Forest Regressor, Linear Regression, Decision Tree, Hyperparameter Tuning).
 - **Database Management & SQL Tools**: MySQL, DBeaver.
@@ -22,9 +22,9 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 - **Jr. Data Specialist**  
   **TecAlliance do Brasil**  
   *Apr 2021 - Present*  
-  - Standardizing and managing datasets for automotive parts and components to ensure data quality and consistency.
-  - Using Python to automate data transformation and validation, significantly improving operational efficiency.
-  - Communicating directly with manufacturers in the automotive sector to ensure accurate and reliable data delivery.
+  - Responsible for standardizing and managing datasets related to automotive parts and components, ensuring high quality and consistency of information. 
+  - My role involves applying Python to data transformation and validation processes, resulting in a significant increase in operational efficiency. 
+  - I maintain direct contact with manufacturers in the automotive sector, providing ongoing support to ensure the accurate and reliable delivery of data, facilitating communication between all parties involved.
   - Utilizing SQL for database queries and reporting, supporting internal analytical needs and contributing to data-driven decision-making.
 
 ---
@@ -32,9 +32,11 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
 - **SQL Tutor**  
   **Coderhouse Brasil**  
   *Aug 2024 - Present*  
-  - Assisting students in creating and modeling relational databases from scratch, including structure generation and data insertion.
-  - Teaching SQL sublanguages (DDL, DML, DCL, TCL) and guiding students in creating Functions, Stored Procedures, and Triggers.
-  - Supporting advanced SQL queries to generate reports that aid in decision-making processes.
+  - As a tutor, I provide support in the creation and modeling of a relational database from scratch, assisting from the generation of the structure to the insertion of information and the implementation of automation processes for database maintenance.
+  - Provide guidance in designing, modeling, and maintaining relational databases using all SQL sublanguages (DDL, DML, DCL, TCL).
+  - Assist students in creating stored procedures, functions, and triggers to automate database processes.
+  - Teach advanced SQL techniques, including joins, queries, CTEs, and window functions, to solve real world problems.
+  - Support the development of performance-optimized SQL queries for reporting and decision-making.
 
 ---
 
@@ -44,7 +46,7 @@ Welcome to my portfolio! Here, I showcase some of my completed projects: one ana
   - Guiding students in developing data analysis projects, from initial research to creating interactive dashboards in Power BI.
   - Teaching best practices for data modeling, SQL manipulation, and complex queries (e.g., Join, Union).
   - Helping students build storytelling skills with data and create efficient, trend-focused visualizations.
-  - Assisting with Power BI tools (DAX, M language, Power Query) to transform data into actionable insights.
+  - Assisting with Power BI tools (DAX, Power Query) to transform data into actionable insights.
 
 ---
 
